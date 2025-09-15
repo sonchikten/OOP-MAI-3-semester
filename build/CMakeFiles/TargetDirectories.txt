@@ -1,0 +1,4 @@
+/workspaces/OOP MAI 3 semester/build/CMakeFiles/lab1.dir
+/workspaces/OOP MAI 3 semester/build/CMakeFiles/test_lab1.dir
+/workspaces/OOP MAI 3 semester/build/CMakeFiles/edit_cache.dir
+/workspaces/OOP MAI 3 semester/build/CMakeFiles/rebuild_cache.dir

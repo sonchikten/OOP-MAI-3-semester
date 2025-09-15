@@ -1,5 +1,0 @@
-if(EXISTS "/workspaces/OOP MAI 3 semester/build/test_lab1[1]_tests.cmake")
-  include("/workspaces/OOP MAI 3 semester/build/test_lab1[1]_tests.cmake")
-else()
-  add_test(test_lab1_NOT_BUILT test_lab1_NOT_BUILT)
-endif()

@@ -1,10 +1,10 @@
 {
-    "name": "C++ OOP MAI 3 semester",
-    "dockerFile": "Dockerfile",
-    "context": "..",
-    "appPort": [],
-    "extensions": [
-        "ms-vscode.cpptools",
+    "name": "C++ OOP MAI 3 semester",  
+    "dockerFile": "Dockerfile",     
+    "context": "..",            
+    "appPort": [],                  
+    "extensions": [                 //Плагины
+        "ms-vscode.cpptools",              
         "vscode.cpptools-extension-pack",
         "ms-vscode.cmake-tools",
         "llvm-vs-code-extensions.vscode-clangd"

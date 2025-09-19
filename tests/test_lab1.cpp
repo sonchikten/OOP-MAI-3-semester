@@ -1,5 +1,5 @@
 #include "/usr/src/googletest/googletest/include/gtest/gtest.h"
-#include "../src/lab1/lab1.h"
+#include "../lab1/src/lab1.h"
 
 //Тест для однозначных чисел (все должны быть true)
 TEST(NonDecreasingTest, SingleDigitNumbers) {

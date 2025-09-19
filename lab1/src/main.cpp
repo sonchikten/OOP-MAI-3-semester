@@ -6,7 +6,15 @@ int main() {
     int number;
     
     // Ввод числа
-    std::cin >> number;
+    if (!(std::cin >> number)) {
+        std::cout << "Error! This is not a number!" << std::endl;
+        return 1;
+    }
+
+    if (number < 0) {
+        std::cout << "This number is not a non-decreasing number! (negative number)" << std::endl;
+        return 0;
+    }
     
     // Вычисление и вывод результата
     if (IsNonDecreasing(number)) {
